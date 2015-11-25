@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XO Game!</string>
+    <string name="head">Tic-Tac-Toe</string>
+    <string name="head2">Tic\nTac\nToe</string>
+    <string name="Xwin">X win</string>
+    <string name="Ywin">O win</string>
+    <string name="draw">draw</string>
+    <string name="replay">Replay</string>
+</resources>
